@@ -11,3 +11,5 @@ console.log(cartao);
 console.log(cartaoS);
 console.log(cartaoV);
 console.log(senha);
+
+//console.log(nome, email, cartao, cartaoS, cartaoV, senha);//
